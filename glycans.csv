@@ -1,0 +1,386 @@
+Name,Short,Code
+Mannopyranose a-D,Man,0001
+Galactopyranose a-D,Gal,0002
+Fucopyranose b-L,Fuc,0003
+N-Acetyl Galacotsamine a-D,GalNAc,0004
+N-Acetyl Neuraminic Acis a-D,NeuAc,0005
+Glucopyranose a-D,Glc,0006
+N-Acetly Glucosamin a-D,GlcNAc,0007
+Rhamnopyranose a-D,Rha,0008
+L-Glycero-D-Manno-Heptose,LdmanHep,0009
+Tallopyranose a-D,Tal,0010
+Glucosamine a-D,GlcN,0011
+Galactosamine a-D,GalN,0012
+Ribofuranose a-D (northern conformation),Rib,0013
+Ribofuranose a-D (southern conformation),Rib,0014
+N-Acetly D-Mannosamin a-D,ManNAc,0015
+Arabinopyranose a-D,Ara,0016
+Mannosamin a-D,ManN,0017
+Galactopyranose a-L,LGal,0018
+Xylopyranose a-D,Xyl,0019
+Fructofuranose b-D (northern conformation),Fru,0020
+Fructofuranose b-D (southern conformation),Fru,0021
+Gal b1-4 Glc (Conformation 1),Gal b1-4 Glc,0022
+Gal b1-4 Glc (Conformation 2),Gal b1-4 Glc,0023
+Gal b1-4 Glc (Conformation 3),Gal b1-4 Glc,0024
+Gal b1-4 Glc (Conformation 4),Gal b1-4 Glc,0025
+Man a1-2 Man (Conformation 1),Man a1-2 Man,0026
+Man a1-2 Man (Conformation 2),Man a1-2 Man,0027
+Man a1-2 Man (Conformation 3),Man a1-2 Man,0028
+Man a1-3 Man (Conformation 1),Man a1-3 Man,0029
+Man a1-3 Man (Conformation 2),Man a1-3 Man,0030
+Man a1-3 Man (Conformation 3),Man a1-3 Man,0031
+NeuAc a2-3 Gal,NeuAc a2-3 Gal,0032
+Gal b1-3 GlcAc (Conformation 1),Gal b1-3 GlcAc,0033
+Gal b1-3 GlcAc (Conformation 2),Gal b1-3 GlcAc,0034
+Gal b1-3 GlcAc (Conformation 3),Gal b1-3 GlcAc,0035
+Gal b1-3 GlcAc (Conformation 4),Gal b1-3 GlcAc,0036
+Gal b1-3 GalAc (Conformation 1),Gal b1-3 GalAc,0037
+Gal b1-3 GalAc (Conformation 2),Gal b1-3 GalAc,0038
+Gal b1-3 GalAc (Conformation 3),Gal b1-3 GalAc,0039
+Gal b1-3 GalAc (Conformation 4),Gal b1-3 GalAc,0040
+Gal b1-4 GlcAc (Conformation 1),Gal b1-4 GlcAc,0041
+Gal b1-4 GlcAc (Conformation 2),Gal b1-4 GlcAc,0042
+Gal b1-4 GlcAc (Conformation 3),Gal b1-4 GlcAc,0043
+Gal b1-4 GlcAc (Conformation 4),Gal b1-4 GlcAc,0044
+NeuAc a2-6 Gal,NeuAc a2-6 Gal,0045
+GlcAc b1-2 Man (Conformation 1),GlcAc b1-2 Man,0046
+GlcAc b1-2 Man (Conformation 2),GlcAc b1-2 Man,0047
+GlcAc b1-2 Man (Conformation 3),GlcAc b1-2 Man,0048
+GlcAc b1-2 Man (Conformation 4),GlcAc b1-2 Man,0049
+Glc a1-4 Glc,Glc a1-4 Glc,0050
+Gal a1-4 Gal (Conformation 1),Gal a1-4 Gal,0051
+Gal a1-4 Gal (Conformation 2),Gal a1-4 Gal,0052
+Gal a1-4 Gal (Conformation 3),Gal a1-4 Gal,0053
+Man a1-4 Man (Conformation 1),Man a1-4 Man,0054
+Man a1-4 Man (Conformation 2),Man a1-4 Man,0055
+Man a1-4 Man (Conformation 3),Man a1-4 Man,0056
+Gal a1-3 Gal (Conformation 1),Gal a1-3 Gal,0057
+Gal a1-3 Gal (Conformation 2),Gal a1-3 Gal,0058
+Gal a1-3 Gal (Conformation 3),Gal a1-3 Gal,0059
+Glc b1-3 Glc (Conformation 1),Glc b1-3 Glc,0060
+Glc b1-3 Glc (Conformation 2),Glc b1-3 Glc,0061
+Glc b1-3 Glc (Conformation 3),Glc b1-3 Glc,0062
+Glc b1-3 Glc (Conformation 4),Glc b1-3 Glc,0063
+GlcAc b1-3 Gal (Conformation 1),GlcAc b1-3 Gal,0064
+GlcAc b1-3 Gal (Conformation 2),GlcAc b1-3 Gal,0065
+GlcAc b1-3 Gal (Conformation 3),GlcAc b1-3 Gal,0066
+GlcAc b1-3 Gal (Conformation 4),GlcAc b1-3 Gal,0067
+GalAc a1-3 GalAc (Conformation 1),GalAc a1-3 GalAc,0068
+GalAc a1-3 GalAc (Conformation 2),GalAc a1-3 GalAc,0069
+GalAc a1-3 GalAc (Conformation 3),GalAc a1-3 GalAc,0070
+Gal b1-3 Gal (Conformation 1),Gal b1-3 Gal,0071
+Gal b1-3 Gal (Conformation 2),Gal b1-3 Gal,0072
+Gal b1-3 Gal (Conformation 3),Gal b1-3 Gal,0073
+Gal b1-3 Gal (Conformation 4),Gal b1-3 Gal,0074
+GalAc b1-3 Gal (Conformation 1),GalAc b1-3 Gal,0075
+GalAc b1-3 Gal (Conformation 2),GalAc b1-3 Gal,0076
+GalAc b1-3 Gal (Conformation 3),GalAc b1-3 Gal,0077
+GalAc b1-3 Gal (Conformation 4),GalAc b1-3 Gal,0078
+Fuc a1-4 GlcAc (Conformation 1),Fuc a1-4 GlcAc,0079
+Fuc a1-4 GlcAc (Conformation 2),Fuc a1-4 GlcAc,0080
+Fuc a1-4 GlcAc (Conformation 3),Fuc a1-4 GlcAc,0081
+Fuc a1-2 Gal (Conformation 1),Fuc a1-2 Gal,0082
+Fuc a1-2 Gal (Conformation 2),Fuc a1-2 Gal,0083
+Fuc a1-2 Gal (Conformation 3),Fuc a1-2 Gal,0084
+Gal b1-4 Gal (Conformation 1),Gal b1-4 Gal,0085
+Gal b1-4 Gal (Conformation 2),Gal b1-4 Gal,0086
+Gal b1-4 Gal (Conformation 3),Gal b1-4 Gal,0087
+NeuAc a2-6 GlcAc (Conformation 1),NeuAc a2-6 GlcAc,0088
+NeuAc a2-8 NeuAc,NeuAc a2-8 NeuAc,0091
+GalAc a1-3 Gal (Conformation 1),GalAc a1-3 Gal,0092
+GalAc a1-3 Gal (Conformation 2),GalAc a1-3 Gal,0093
+GalAc a1-3 Gal (Conformation 3),GalAc a1-3 Gal,0094
+NeuAc a2-6 GalAc,NeuAc a2-6 GalAc,0095
+Gal a1-2 Gal (Conformation 1),Gal a1-2 Gal,0099
+Gal a1-2 Gal (Conformation 2),Gal a1-2 Gal,0100
+Gal a1-2 Gal (Conformation 3),Gal a1-2 Gal,0101
+Xyl b1-3 Man (Conformation 1),Xyl b1-3 Man,0102
+Xyl b1-3 Man (Conformation 2),Xyl b1-3 Man,0103
+Xyl b1-3 Man (Conformation 3),Xyl b1-3 Man,0104
+Xyl b1-3 Man (Conformation 4),Xyl b1-3 Man,0105
+Gal b1-4 Fruf,Gal b1-4 Fruf,0106
+Fuc a1-6 GlcAc (Conformation 1),Fuc a1-6 GlcAc,0107
+Fuc a1-6 GlcAc (Conformation 2),Fuc a1-6 GlcAc,0108
+Glc a1-6 Glc,Glc a1-6 Glc,0109
+Gal b1-3 Glc (Conformation 1),Gal b1-3 Glc,0110
+Gal b1-3 Glc (Conformation 2),Gal b1-3 Glc,0111
+Gal b1-3 Glc (Conformation 3),Gal b1-3 Glc,0112
+Gal b1-3 Glc (Conformation 4),Gal b1-3 Glc,0113
+Glc a1-3 Glc (Conformation 1),Glc a1-3 Glc,0114
+Glc a1-3 Glc (Conformation 2),Glc a1-3 Glc,0115
+Glc a1-3 Glc (Conformation 3),Glc a1-3 Glc,0116
+(Man)3a,Man a1-3 (Man a1-6) Man a,1000
+Man a1-3 (Man a1-6) Man,Man a1-3 (Man a1-6) Man a,1001
+(Man)3a,Man a1-3 (Man a1-6) Man a,1000
+Man a1-3 (Man a1-6) Man,Man a1-3 (Man a1-6) Man a,1001
+Chitotriose,GlcNAc b1-4 GlcNAc b1-4 GlcNAc b,1002
+Chitotetraose,GlcNAc b1-4 GlcNAc b1-4 GlcNAc b1-4 GlcNAc b,1003
+Chitotriose,GlcNAc b1-4 GlcNAc b1-4 GlcNAc b,1002
+Lewis y tetraose [Blood group H type 2],Fuc a1-2 Gal b1-4 (Fuc a1-3) GlcNAc b,1004
+Blood group H antigen triose type 5,Fuc a1-2 Gal b1-4 Glc,1005
+Chitotetraose,GlcNAc b1-4 GlcNAc b1-4 GlcNAc b1-4 GlcNAc b,1003
+Globotetraose (Gb4) (P antigen),GalNAc b1-3 Gal a1-4 Gal b1-4 Glc,1006
+GlcNAc-Gal-Glc,GlcNAc b1-6 Gal b1-4 Glc b,1007
+GlcNAc-Man-(GlcNAc-Man)-Man,GlcNAc b1-2 Man a1-3 (GlcNAc b1-2 Man a1-6) Man a,1008
+GlcNAc-Man-(GlcNAc-Man)-Man,GlcNAc b1-2 Man a1-3 (GlcNAc b1-2 Man a1-6) Man a,1008
+Lewis b tetraose,Fuc a1-2 Gal b1-3 (Fuc a1-4) GlcNAc b,1009
+Gal-GlcNAc-Man-(Gal-GlcNAc-Man)-Man-GlcNAc,Gal b1-4 GlcNAc b1-2 Man a1-3 (Gal b1-4 GlcNAc b1-2 Man a1-6) Man b1-4 GlcNAc b,1010
+Gal-GlcNAc-Man-(Gal-GlcNAc-Man)-Man-GlcNAc,Gal b1-4 GlcNAc b1-2 Man a1-3 (Gal b1-4 GlcNAc b1-2 Man a1-6) Man b1-4 GlcNAc b,1011
+Blood group A antigen triose,GalNAc a1-3 (Fuc a1-2) Gal b,1012
+Blood group A antigen triose,GalNAc a1-3 (Fuc a1-2) Gal b,1013
+Blood group A antigen triose,GalNAc a1-3 (Fuc a1-2) Gal b,1014
+Chitopentose,GlcNAc b1-4 GlcNAc b1-4 GlcNAc b1-4 GlcNAc b1-4 GlcNAc b,1015
+Chitopentaose,GlcNAc b1-4 GlcNAc b1-4 GlcNAc b1-4 GlcNAc b1-4 GlcNAc b,1016
+(Man)3a,Man a1-3 (Man a1-6) Man a,1000
+Man a1-3 (Man a1-6) Man,Man a1-3 (Man a1-6) Man a,1001
+Pk antigen (Globotriose or_Gb3),Gal a1-4 Gal b1-4 Glc b,1017
+Pk antigen (Globotriose / Gb3),Gal a1-4 Gal b1-4 Glc b,1018
+Blood group H antigen triose type 5,Fuc a1-2 Gal b1-4 Glc,1005
+(Man)3a,Man a1-3 (Man a1-6) Man a,1000
+Man a1-3 (Man a1-6) Man,Man a1-3 (Man a1-6) Man a,1001
+Gal-GlcNAc-Man-(Gal-GlcNAc-Man)-Man-GlcNAc,Gal b1-4 GlcNAc b1-2 Man a1-3 (Gal b1-4 GlcNAc b1-2 Man a1-6) Man b1-4 GlcNAc b,1010
+Gal-GlcNAc-Man-(Gal-GlcNAc-Man)-Man-GlcNAc,Gal b1-4 GlcNAc b1-2 Man a1-3 (Gal b1-4 GlcNAc b1-2 Man a1-6) Man b1-4 GlcNAc b,1011
+Gal-GlcNAc-Man-(Gal-GlcNAc-Man)-Man-GlcNAc,Gal b1-4 GlcNAc b1-2 Man a1-3 (Gal b1-4 GlcNAc b1-2 Man a1-6) Man b1-4 GlcNAc b,1010
+Gal-GlcNAc-Man-(Gal-GlcNAc-Man)-Man-GlcNAc,Gal b1-4 GlcNAc b1-2 Man a1-3 (Gal b1-4 GlcNAc b1-2 Man a1-6) Man b1-4 GlcNAc b,1011
+Gal-GlcNAc-Man-(Gal-GlcNAc-Man)-Man-GlcNAc,Gal b1-4 GlcNAc b1-2 Man a1-3 (Gal b1-4 GlcNAc b1-2 Man a1-6) Man b1-4 GlcNAc b,1010
+Gal-GlcNAc-Man-(Gal-GlcNAc-Man)-Man-GlcNAc,Gal b1-4 GlcNAc b1-2 Man a1-3 (Gal b1-4 GlcNAc b1-2 Man a1-6) Man b1-4 GlcNAc b,1011
+Chitotriose,GlcNAc b1-4 GlcNAc b1-4 GlcNAc b,1002
+GlcNAc-Man-(GlcNAc-Man)-Man,GlcNAc b1-2 Man a1-3 (GlcNAc b1-2 Man a1-6) Man a,1008
+Blood group H antigen triaose type 2,Fuc a1-2 Gal b1-4 GlcNAc b,1019
+Xeno antigen type 2 (Galili antigen triose Gal a3 epitope),Gal a1-3 Gal b1-4 GlcNAc,1020
+Blood group A antigen tetraose type 5,GalNAc a1-3 (Fuc a1-2) Gal b1-4 Glc,1021
+Blood group A antigen tetraose type 5,GalNAc a1-3 (Fuc a1-2) Gal b1-4 Glc,1022
+Blood group A antigen tetraose type 5,GalNAc a1-3 (Fuc a1-2) Gal b1-4 Glc,1023
+Blood group A antigen tetraose type 5,GalNAc a1-3 (Fuc a1-2) Gal b1-4 Glc,1024
+Chitotriose,GlcNAc b1-4 GlcNAc b1-4 GlcNAc b,1002
+Lacto-N-neofucopentaose,Gal b1-4 GlcNAc b1-3 Gal b1-4 (Fuc a1-3) Glc,1025
+Lewis a triose,Gal b1-3 (Fuc a1-4) GlcNAc b,1026
+(Man)3 chitobiose,Man a1-3 (Man a1-6) Man b1-4 GlcNAc b1-4 GlcNAc b,1027
+GlcNAc-Man-(GlcNAc-Man)-Man,GlcNAc b1-2 Man a1-3 (GlcNAc b1-2 Man a1-6) Man a,1008
+Isoglobotriose (iGB3),Gal a1-3 Gal b1-4 Glc,1028
+Blood group H antigen triose type 5,Fuc a1-2 Gal b1-4 Glc,1005
+Fuc-Gal-Xyl,Fuc a1-2 Gal b1-2 Xyl a,1029
+,Gal b1-4 GlcNAc b1-3 Gal b1-4 GlcNAc b,1030
+Isoglobotriose (iGB3),Gal a1-3 Gal b1-4 Glc,1028
+Forssman antigen triose,GalNAc a1-3 GalNAc b1-3 Gal,1031
+Xeno antigen type 2 (Galili antigen triose Gal a3 epitope),Gal a1-3 Gal b1-4 GlcNAc,1020
+(Man)3a,Man a1-3 (Man a1-6) Man a,1000
+Man a1-3 (Man a1-6) Man,Man a1-3 (Man a1-6) Man a,1001
+Xeno antigen type 2 (Galili antigen triose Gal a3 epitope),Gal a1-3 Gal b1-4 GlcNAc,1020
+GlcNAc-(Fuc)-GlcNAc,GlcNAc b1-4 (Fuc a1-3) GlcNAc b,1032
+(Man)5-OMe,Man a1-2 Man a1-3 (Man a1-3 Man a1-6) Man b,1033
+(Man)5-OMe,Man a1-2 Man a1-3 (Man a1-3 Man a1-6) Man b,1034
+3-Fucosylated Blood group A tetraose,GalNAc a1-3 (Fuc a1-2) Gal b1-4 (Fuc a1-3) Glc,1035
+Blood group A antigen triose,GalNAc a1-3 (Fuc a1-2) Gal b,1012
+Blood group A antigen triose,GalNAc a1-3 (Fuc a1-2) Gal b,1013
+Blood group A antigen triose,GalNAc a1-3 (Fuc a1-2) Gal b,1014
+Blood group B antigen triose,Gal a1-3 (Fuc a1-2) Gal b,1036
+Blood group B antigen triose,Gal a1-3 (Fuc a1-2) Gal b,1037
+Blood group B antigen triose,Gal a1-3 (Fuc a1-2) Gal b,1038
+Chitotriose,GlcNAc b1-4 GlcNAc b1-4 GlcNAc b,1002
+(Man)3 chitobiose,Man a1-3 (Man a1-6) Man b1-4 GlcNAc b1-4 GlcNAc b,1027
+Isoglobotriose (iGB3),Gal a1-3 Gal b1-4 Glc,1028
+,Gal b1-4 GlcNAc b1-3 Gal b1-4 GlcNAc b,1030
+,Gal b1-4 GlcNAc b1-3 Gal b1-4 Glc b,1039
+,Gal b1-4 GlcNAc b1-3 Gal b1-4 GlcNAc b,1030
+,Gal b1-4 GlcNAc b1-3 Gal b1-4 GlcNAc b,1030
+Lacto-N-fucopentaose I,Fuc a1-2 Gal b1-3 GlcNAc b1-3 Gal b1-4 Glc b,1040
+Blood group A antigen triose,GalNAc a1-3 (Fuc a1-2) Gal b,1012
+Blood group A antigen triose,GalNAc a1-3 (Fuc a1-2) Gal b,1013
+Blood group A antigen triose,GalNAc a1-3 (Fuc a1-2) Gal b,1014
+Pk antigen (Globotriose or_Gb3),Gal a1-4 Gal b1-4 Glc b,1017
+Pk antigen (Globotriose / Gb3),Gal a1-4 Gal b1-4 Glc b,1018
+Blood group A antigen tetraose type 1,GalNAc a1-3 (Fuc a1-2) Gal b1-3 GlcNAc b,1041
+Blood group A antigen tetraose type 1,GalNAc a1-3 (Fuc a1-2) Gal b1-3 GlcNAc b,1042
+Blood group A antigen tetraose type 1,GalNAc a1-3 (Fuc a1-2) Gal b1-3 GlcNAc b,1043
+Blood group H antigen triose type 1,Fuc a1-2 Gal b1-3 GlcNAc b,1044
+Lewis a triose,Gal b1-3 (Fuc a1-4) GlcNAc b,1026
+Lewis b tetraose,Fuc a1-2 Gal b1-3 (Fuc a1-4) GlcNAc b,1009
+Lewis b tetraose,Fuc a1-2 Gal b1-3 (Fuc a1-4) GlcNAc b,1009
+Blood group A antigen triose,GalNAc a1-3 (Fuc a1-2) Gal b,1012
+Blood group A antigen triose,GalNAc a1-3 (Fuc a1-2) Gal b,1013
+Blood group A antigen triose,GalNAc a1-3 (Fuc a1-2) Gal b,1014
+Blood group B antigen triose,Gal a1-3 (Fuc a1-2) Gal b,1036
+Blood group B antigen triose,Gal a1-3 (Fuc a1-2) Gal b,1037
+Blood group B antigen triose,Gal a1-3 (Fuc a1-2) Gal b,1038
+3-Fucosylated Blood group A tetraose,GalNAc a1-3 (Fuc a1-2) Gal b1-4 (Fuc a1-3) Glc,1035
+Lewis y tetraose [Blood group H type 2],Fuc a1-2 Gal b1-4 (Fuc a1-3) GlcNAc b,1004
+Lewis b tetraose,Fuc a1-2 Gal b1-3 (Fuc a1-4) GlcNAc b,1009
+Blood group B antigen triose,Gal a1-3 (Fuc a1-2) Gal b,1036
+Blood group B antigen triose,Gal a1-3 (Fuc a1-2) Gal b,1037
+Blood group B antigen triose,Gal a1-3 (Fuc a1-2) Gal b,1038
+Blood group A antigen triose,GalNAc a1-3 (Fuc a1-2) Gal b,1012
+Blood group A antigen triose,GalNAc a1-3 (Fuc a1-2) Gal b,1013
+Blood group A antigen triose,GalNAc a1-3 (Fuc a1-2) Gal b,1014
+Lewis y tetraose [Blood group H type 2],Fuc a1-2 Gal b1-4 (Fuc a1-3) GlcNAc b,1004
+Lewis y tetraose [Blood group H type 2],Fuc a1-2 Gal b1-4 (Fuc a1-3) GlcNAc b,1004
+Blood group B antigen triose,Gal a1-3 (Fuc a1-2) Gal b,1036
+Blood group B antigen triose,Gal a1-3 (Fuc a1-2) Gal b,1037
+Blood group B antigen triose,Gal a1-3 (Fuc a1-2) Gal b,1038
+Blood group H antigen triaose type 2,Fuc a1-2 Gal b1-4 GlcNAc b,1019
+Blood group B antigen triose,Gal a1-3 (Fuc a1-2) Gal b,1036
+Blood group B antigen triose,Gal a1-3 (Fuc a1-2) Gal b,1037
+Blood group B antigen triose,Gal a1-3 (Fuc a1-2) Gal b,1038
+,Fuc a1-2 Gal b1-3 (Fuc a1-4) GlcNAc b1-3 Gal b1-4 Glc b,1045
+Blood group A antigen triose,GalNAc a1-3 (Fuc a1-2) Gal b,1012
+Blood group A antigen triose,GalNAc a1-3 (Fuc a1-2) Gal b,1013
+Blood group A antigen triose,GalNAc a1-3 (Fuc a1-2) Gal b,1014
+Lacto-N-fucopentaose I,Fuc a1-2 Gal b1-3 GlcNAc b1-3 Gal b1-4 Glc b,1040
+(Man)3a,Man a1-3 (Man a1-6) Man a,1000
+Man a1-3 (Man a1-6) Man,Man a1-3 (Man a1-6) Man a,1001
+Blood group H antigen tetraose type 1,Fuc a1-2 Gal b1-3 GlcNAc b1-3 Gal,1046
+Blood group H antigen tetraose type 1,Fuc a1-2 Gal b1-3 GlcNAc b1-3 Gal,1047
+Blood group H antigen tetraose type 1,Fuc a1-2 Gal b1-3 GlcNAc b1-3 Gal,1048
+Blood Group H antigen tetraose tyype 1,Fuc a1-2 Gal b1-3 GlcNAc b1-3 Gal,1049
+Blood group B antigen tetraose type 5,Gal a1-3 (Fuc a1-2) Gal b1-4 Glc b,1050
+Blood group B antigen tetraose type 5,Gal a1-3 (Fuc a1-2) Gal b1-4 Glc b,1051
+B-tetra Lactose,Gal a1-3 (Fuc a1-2) Gal b1-4 Glc b,1052
+Blood group H antigen triaose type 2,Fuc a1-2 Gal b1-4 GlcNAc b,1019
+Blood group A antigen hexaose type 1,GalNAc a1-3 (Fuc a1-2) Gal b1-3 GlcNAc b1-3 Gal b1-4 Glc,1053
+Blood group A antigen hexaose type 1,GalNAc a1-3 (Fuc a1-2) Gal b1-3 GlcNAc b1-3 Gal b1-4 Glc,1054
+Blood group A antigen hexaose type 1,GalNAc a1-3 (Fuc a1-2) Gal b1-3 GlcNAc b1-3 Gal b1-4 Glc,1055
+Blood group B antigen hexaose type 1,Gal a1-3 (Fuc a1-2) Gal b1-3 GlcNAc b1-3 Gal b1-4 Glc,1056
+Blood group B antigen hexaose type 1,Gal a1-3 (Fuc a1-2) Gal b1-3 GlcNAc b1-3 Gal b1-4 Glc,1057
+Blood group B antigen hexaose type 1,Gal a1-3 (Fuc a1-2) Gal b1-3 GlcNAc b1-3 Gal b1-4 Glc,1058
+Blood group A antigen triose,GalNAc a1-3 (Fuc a1-2) Gal b,1012
+Blood group A antigen triose,GalNAc a1-3 (Fuc a1-2) Gal b,1013
+Blood group A antigen triose,GalNAc a1-3 (Fuc a1-2) Gal b,1014
+Blood group A antigen tetraose type 2,GalNAc a1-3 (Fuc a1-2) Gal b1-4 GlcNAc b,1059
+Blood group A antigen tetraose type 2,GalNAc a1-3 (Fuc a1-2) Gal b1-4 GlcNAc b,1060
+Blood group A antigen tetraose type 2,GalNAc a1-3 (Fuc a1-2) Gal b1-4 GlcNAc b,1061
+A-tetra type 2,GalNAc a1-3 (Fuc a1-2) Gal b1-4 GlcNAc b,1062
+Lewis y tetraose [Blood group H type 2],Fuc a1-2 Gal b1-4 (Fuc a1-3) GlcNAc b,1004
+Lewis b tetraose,Fuc a1-2 Gal b1-3 (Fuc a1-4) GlcNAc b,1009
+Blood group A antigen tetraose type 2,GalNAc a1-3 (Fuc a1-2) Gal b1-4 GlcNAc b,1059
+Blood group A antigen tetraose type 2,GalNAc a1-3 (Fuc a1-2) Gal b1-4 GlcNAc b,1060
+Blood group A antigen tetraose type 2,GalNAc a1-3 (Fuc a1-2) Gal b1-4 GlcNAc b,1061
+A-tetra type 2,GalNAc a1-3 (Fuc a1-2) Gal b1-4 GlcNAc b,1062
+Blood group A antigen tetraose type 2,GalNAc a1-3 (Fuc a1-2) Gal b1-4 GlcNAc b,1059
+Blood group A antigen tetraose type 2,GalNAc a1-3 (Fuc a1-2) Gal b1-4 GlcNAc b,1060
+Blood group A antigen tetraose type 2,GalNAc a1-3 (Fuc a1-2) Gal b1-4 GlcNAc b,1061
+A-tetra type 2,GalNAc a1-3 (Fuc a1-2) Gal b1-4 GlcNAc b,1062
+Lacto-N-triose,GlcNAc b1-3 Gal b1-4 Glc,1063
+Lacto-N-triose,GlcNAc b1-3 Gal b1-4 Glc,1063
+Lacto-N-triose,GlcNAc b1-3 Gal b1-4 Glc,1063
+Blood group H antigen triaose type 2,Fuc a1-2 Gal b1-4 GlcNAc b,1019
+Lewis y tetraose [Blood group H type 2],Fuc a1-2 Gal b1-4 (Fuc a1-3) GlcNAc b,1004
+Blood group A antigen tetraose type 2,GalNAc a1-3 (Fuc a1-2) Gal b1-4 GlcNAc b,1059
+Blood group A antigen tetraose type 2,GalNAc a1-3 (Fuc a1-2) Gal b1-4 GlcNAc b,1060
+Blood group A antigen tetraose type 2,GalNAc a1-3 (Fuc a1-2) Gal b1-4 GlcNAc b,1061
+A-tetra type 2,GalNAc a1-3 (Fuc a1-2) Gal b1-4 GlcNAc b,1062
+Lewis a triose,Gal b1-3 (Fuc a1-4) GlcNAc b,1026
+,Gal b1-3 GlcNAc b1-3 Gal b1-4 Glc b,1064
+,Gal b1-4 GlcNAc b1-3 Gal b1-4 Glc b,1039
+,Gal b1-3 GlcNAc b1-3 Gal b1-4 Glc b,1064
+,Gal b1-4 GlcNAc b1-3 Gal b1-4 Glc b,1039
+Chitotetraose,GlcNAc b1-4 GlcNAc b1-4 GlcNAc b1-4 GlcNAc b,1003
+Chitotetraose,GlcNAc b1-4 GlcNAc b1-4 GlcNAc b1-4 GlcNAc b,1003
+Blood group A antigen triose,GalNAc a1-3 (Fuc a1-2) Gal b,1012
+Blood group A antigen triose,GalNAc a1-3 (Fuc a1-2) Gal b,1013
+Blood group A antigen triose,GalNAc a1-3 (Fuc a1-2) Gal b,1014
+Lewis y tetraose [Blood group H type 2],Fuc a1-2 Gal b1-4 (Fuc a1-3) GlcNAc b,1004
+GlcNAc b(1-3') LacNAc,GlcNAc b1-3 Gal b1-4 GlcNAc b,1065
+Blood group B antigen triose,Gal a1-3 (Fuc a1-2) Gal b,1036
+Blood group B antigen triose,Gal a1-3 (Fuc a1-2) Gal b,1037
+Blood group B antigen triose,Gal a1-3 (Fuc a1-2) Gal b,1038
+Lewis b tetraose,Fuc a1-2 Gal b1-3 (Fuc a1-4) GlcNAc b,1009
+Lewis b tetraose,Fuc a1-2 Gal b1-3 (Fuc a1-4) GlcNAc b,1009
+Blood group B antigen triose,Gal a1-3 (Fuc a1-2) Gal b,1036
+Blood group B antigen triose,Gal a1-3 (Fuc a1-2) Gal b,1037
+Blood group B antigen triose,Gal a1-3 (Fuc a1-2) Gal b,1038
+Blood group B antigen triose,Gal a1-3 (Fuc a1-2) Gal b,1036
+Blood group B antigen triose,Gal a1-3 (Fuc a1-2) Gal b,1037
+Blood group B antigen triose,Gal a1-3 (Fuc a1-2) Gal b,1038
+Blood group A antigen triose,GalNAc a1-3 (Fuc a1-2) Gal b,1012
+Blood group A antigen triose,GalNAc a1-3 (Fuc a1-2) Gal b,1013
+Blood group A antigen triose,GalNAc a1-3 (Fuc a1-2) Gal b,1014
+Blood group A antigen triose,GalNAc a1-3 (Fuc a1-2) Gal b,1012
+Blood group A antigen triose,GalNAc a1-3 (Fuc a1-2) Gal b,1013
+Blood group A antigen triose,GalNAc a1-3 (Fuc a1-2) Gal b,1014
+Lewis a triose,Gal b1-3 (Fuc a1-4) GlcNAc b,1026
+Lewis y tetraose [Blood group H type 2],Fuc a1-2 Gal b1-4 (Fuc a1-3) GlcNAc b,1004
+Blood group H antigen triaose type 2,Fuc a1-2 Gal b1-4 GlcNAc b,1019
+,Gal b1-4 GlcNAc b1-3 Gal b1-4 Glc b,1039
+,Gal b1-3 GlcNAc b1-3 Gal b1-4 Glc b,1064
+Blood group H antigen triose type 5,Fuc a1-2 Gal b1-4 Glc,1005
+Lewis b pentaose,Fuc a1-2 Gal b1-3 (Fuc a1-4) GlcNAc b1-3 Gal,1066
+,Fuc a1-2 Gal b1-3 (Fuc a1-4) GlcNAc b1-3 Gal b1-4 Glc b,1045
+Blood group A Lewis B antigen pentaose type 1,GalNAc a1-3 (Fuc a1-2) Gal b1-3 (Fuc a1-4) GlcNAc,1067
+Blood group A Lewis B antigen pentaose type 1,GalNAc a1-3 (Fuc a1-2) Gal b1-3 (Fuc a1-4) GlcNAc,1068
+Blood group A Lewis B antigen pentaose type 1,GalNAc a1-3 (Fuc a1-2) Gal b1-3 (Fuc a1-4) GlcNAc,1069
+Blood group A antigen hexaose type 1,GalNAc a1-3 (Fuc a1-2) Gal b1-3 GlcNAc b1-3 Gal b1-4 Glc,1053
+Blood group A antigen hexaose type 1,GalNAc a1-3 (Fuc a1-2) Gal b1-3 GlcNAc b1-3 Gal b1-4 Glc,1054
+Blood group A antigen hexaose type 1,GalNAc a1-3 (Fuc a1-2) Gal b1-3 GlcNAc b1-3 Gal b1-4 Glc,1055
+,Fuc a1-2 Gal b1-3 (Fuc a1-4) GlcNAc b1-3 Gal b1-4 Glc b,1045
+,Fuc a1-2 Gal b1-3 (Fuc a1-4) GlcNAc b1-3 Gal b1-4 Glc b,1045
+,Fuc a1-2 Gal b1-3 (Fuc a1-4) GlcNAc b1-3 Gal b1-4 Glc b,1045
+Blood group A antigen hexaose type 1,GalNAc a1-3 (Fuc a1-2) Gal b1-3 GlcNAc b1-3 Gal b1-4 Glc,1053
+Blood group A antigen hexaose type 1,GalNAc a1-3 (Fuc a1-2) Gal b1-3 GlcNAc b1-3 Gal b1-4 Glc,1054
+Blood group A antigen hexaose type 1,GalNAc a1-3 (Fuc a1-2) Gal b1-3 GlcNAc b1-3 Gal b1-4 Glc,1055
+Lewis a triose,Gal b1-3 (Fuc a1-4) GlcNAc b,1026
+,Gal b1-3 (Fuc a1-4) GlcNAc b1-3 Gal b,1070
+Pk antigen (Globotriose or_Gb3),Gal a1-4 Gal b1-4 Glc b,1017
+Pk antigen (Globotriose / Gb3),Gal a1-4 Gal b1-4 Glc b,1018
+Lewis b tetraose,Fuc a1-2 Gal b1-3 (Fuc a1-4) GlcNAc b,1009
+Lewis y tetraose [Blood group H type 2],Fuc a1-2 Gal b1-4 (Fuc a1-3) GlcNAc b,1004
+Lewis a triose,Gal b1-3 (Fuc a1-4) GlcNAc b,1026
+Blood group B antigen triose,Gal a1-3 (Fuc a1-2) Gal b,1036
+Blood group B antigen triose,Gal a1-3 (Fuc a1-2) Gal b,1037
+Blood group B antigen triose,Gal a1-3 (Fuc a1-2) Gal b,1038
+Blood group B antigen triose,Gal a1-3 (Fuc a1-2) Gal b,1036
+Blood group B antigen triose,Gal a1-3 (Fuc a1-2) Gal b,1037
+Blood group B antigen triose,Gal a1-3 (Fuc a1-2) Gal b,1038
+3-Fucosyllactose,Gal b1-4 (Fuc a1-3) Glc b,1071
+Blood group H antigen triose type 5,Fuc a1-2 Gal b1-4 Glc,1005
+,Gal b1-4 GlcNAc b1-3 Gal b1-4 Glc b,1039
+,Gal b1-3 GlcNAc b1-3 Gal b1-4 Glc b,1064
+,Gal b1-4 GlcNAc b1-3 Gal b1-4 Glc b,1039
+,Gal b1-3 GlcNAc b1-3 Gal b1-4 Glc b,1064
+Blood group H antigen triose type 5,Fuc a1-2 Gal b1-4 Glc,1005
+Blood group A antigen triose,GalNAc a1-3 (Fuc a1-2) Gal b,1012
+Blood group A antigen triose,GalNAc a1-3 (Fuc a1-2) Gal b,1013
+Blood group A antigen triose,GalNAc a1-3 (Fuc a1-2) Gal b,1014
+Globotetraose (Gb4) (P antigen),GalNAc b1-3 Gal a1-4 Gal b1-4 Glc,1006
+GlcNAc-Man-(GlcNAc-Man)-Man,GlcNAc b1-2 Man a1-3 (GlcNAc b1-2 Man a1-6) Man a,1008
+Pk antigen (Globotriose or_Gb3),Gal a1-4 Gal b1-4 Glc b,1017
+Pk antigen (Globotriose / Gb3),Gal a1-4 Gal b1-4 Glc b,1018
+,Gal b1-4 GlcNAc b1-3 Gal b1-4 Glc b,1039
+Blood group H antigen triaose type 2,Fuc a1-2 Gal b1-4 GlcNAc b,1019
+Blood group A antigen tetraose type 2,GalNAc a1-3 (Fuc a1-2) Gal b1-4 GlcNAc b,1059
+Blood group A antigen tetraose type 2,GalNAc a1-3 (Fuc a1-2) Gal b1-4 GlcNAc b,1060
+Blood group A antigen tetraose type 2,GalNAc a1-3 (Fuc a1-2) Gal b1-4 GlcNAc b,1061
+A-tetra type 2,GalNAc a1-3 (Fuc a1-2) Gal b1-4 GlcNAc b,1062
+Blood group A antigen triose,GalNAc a1-3 (Fuc a1-2) Gal b,1012
+Blood group A antigen triose,GalNAc a1-3 (Fuc a1-2) Gal b,1013
+Blood group A antigen triose,GalNAc a1-3 (Fuc a1-2) Gal b,1014
+,Gal b1-3 GlcNAc b1-3 Gal b1-4 Glc b,1064
+Lacto-N-fucopentaose I,Fuc a1-2 Gal b1-3 GlcNAc b1-3 Gal b1-4 Glc b,1040
+Blood group A antigen triose,GalNAc a1-3 (Fuc a1-2) Gal b,1012
+Blood group A antigen triose,GalNAc a1-3 (Fuc a1-2) Gal b,1013
+Blood group A antigen triose,GalNAc a1-3 (Fuc a1-2) Gal b,1014
+Lewis y tetraose [Blood group H type 2],Fuc a1-2 Gal b1-4 (Fuc a1-3) GlcNAc b,1004
+Blood group A Lewis Y antigen pentaose type 2,GalNAc a1-3 (Fuc a1-2) Gal b1-4 (Fuc a1-3) GlcNAc,1072
+Blood group A Lewis Y antigen pentaose type 2,GalNAc a1-3 (Fuc a1-2) Gal b1-4 (Fuc a1-3) GlcNAc,1073
+Blood group A Lewis Y antigen pentaose type 2,GalNAc a1-3 (Fuc a1-2) Gal b1-4 (Fuc a1-3) GlcNAc,1074
+Lewis y tetraose [Blood group H type 2],Fuc a1-2 Gal b1-4 (Fuc a1-3) GlcNAc b,1004
+Blood group A Lewis Y antigen pentaose type 2,GalNAc a1-3 (Fuc a1-2) Gal b1-4 (Fuc a1-3) GlcNAc,1072
+Blood group A Lewis Y antigen pentaose type 2,GalNAc a1-3 (Fuc a1-2) Gal b1-4 (Fuc a1-3) GlcNAc,1073
+Blood group A Lewis Y antigen pentaose type 2,GalNAc a1-3 (Fuc a1-2) Gal b1-4 (Fuc a1-3) GlcNAc,1074
+3-Fucosylated Blood group A tetraose,GalNAc a1-3 (Fuc a1-2) Gal b1-4 (Fuc a1-3) Glc,1035
+Lacto-N-fucopentaose I,Fuc a1-2 Gal b1-3 GlcNAc b1-3 Gal b1-4 Glc b,1040
+Lacto-N-fucopentaose I,Fuc a1-2 Gal b1-3 GlcNAc b1-3 Gal b1-4 Glc b,1040
+(Man)3a,Man a1-3 (Man a1-6) Man a,1000
+Man a1-3 (Man a1-6) Man,Man a1-3 (Man a1-6) Man a,1001
+Blood group H antigen triaose type 2,Fuc a1-2 Gal b1-4 GlcNAc b,1019
+Isoglobotriose (iGB3),Gal a1-3 Gal b1-4 Glc,1028
+Lewis a triose,Gal b1-3 (Fuc a1-4) GlcNAc b,1026
+Lewis X tetraose,Gal b1-4 (Fuc a1-3) GlcNAc b1-3 Gal b,1075
+Blood group H antigen triose type 1,Fuc a1-2 Gal b1-3 GlcNAc b,1044
+GlcNAc-Man-(GlcNAc-Man)-Man,GlcNAc b1-2 Man a1-3 (GlcNAc b1-2 Man a1-6) Man a,1008
+Core 2,Gal b1-3 (GlcNAc b1-6) GalNAc a,1076
+Blood group H antigen tetraose type 1,Fuc a1-2 Gal b1-3 GlcNAc b1-3 Gal,1046
+Blood group H antigen tetraose type 1,Fuc a1-2 Gal b1-3 GlcNAc b1-3 Gal,1047
+Blood group H antigen tetraose type 1,Fuc a1-2 Gal b1-3 GlcNAc b1-3 Gal,1048
+Blood Group H antigen tetraose tyype 1,Fuc a1-2 Gal b1-3 GlcNAc b1-3 Gal,1049
+Lacto-N-fucopentaose I,Fuc a1-2 Gal b1-3 GlcNAc b1-3 Gal b1-4 Glc b,1040
