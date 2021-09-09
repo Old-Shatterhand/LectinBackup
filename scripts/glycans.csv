@@ -1,0 +1,112 @@
+Name,Short,Code,Smiles
+Mannopyranose a-D,Man,0001,OC[C@H]1O[C@H](O)[C@@H](O)[C@@H](O)[C@@H]1O
+Galactopyranose a-D,Gal,0002,OC[C@H]1O[C@H](O)[C@H](O)[C@@H](O)[C@H]1O
+Fucopyranose b-L,Fuc,0003,C[C@@H]1O[C@@H](O)[C@@H](O)[C@H](O)[C@@H]1O
+N-Acetyl Galacotsamine a-D,GalNAc,0004,
+N-Acetyl Neuraminic Acis a-D,NeuAc,0005,CC(O)N[C@@H]1[C@@H](O)C[C@](O)(C(O)O)O[C@H]1[C@H](O)[C@H](O)CO
+Glucopyranose a-D,Glc,0006,
+N-Acetly Glucosamin a-D,GlcNAc,0007,CC(O)N[C@H]1[C@@H](O)O[C@H](CO)[C@@H](O)[C@@H]1O
+Rhamnopyranose a-D,Rha,0008,C[C@H]1O[C@H](O)[C@@H](O)[C@@H](O)[C@@H]1O
+L-Glycero-D-Manno-Heptose,LdmanHep,0009,OC[C@H](O)[C@H]1O[C@H](O)[C@@H](O)[C@@H](O)[C@@H]1O
+Tallopyranose a-D,Tal,0010,OC[C@H]1O[C@H](O)[C@@H](O)[C@@H](O)[C@H]1O
+Glucosamine a-D,GlcN,0011,OC[C@H]1O[C@H](O)[C@H](N2NN2)[C@@H](O)[C@@H]1O
+Galactosamine a-D,GalN,0012,N[C@H]1[C@H](O)O[C@H](CO)[C@H](O)[C@@H]1O
+Ribofuranose a-D (northern conformation),Rib,0013,OC[C@H]1O[C@H](O)[C@H](O)[C@@H]1O
+Ribofuranose a-D (southern conformation),Rib,0014,OC[C@H]1O[C@H](O)[C@H](O)[C@@H]1O
+N-Acetly D-Mannosamin a-D,ManNAc,0015,CC(O)N[C@@H]1[C@@H](O)O[C@H](CO)[C@@H](O)[C@@H]1O
+Arabinopyranose a-D,Ara,0016,O[C@H]1OC[C@@H](O)[C@@H](O)[C@@H]1O
+Mannosamin a-D,ManN,0017,N[C@@H]1[C@@H](O)O[C@H](CO)[C@@H](O)[C@@H]1O
+Galactopyranose a-L,LGal,0018,OC[C@@H]1O[C@@H](O)[C@@H](O)[C@H](O)[C@@H]1O
+Xylopyranose a-D,Xyl,0019,O[C@H]1OC[C@@H](O)[C@H](O)[C@H]1O
+Fructofuranose b-D (northern conformation),Fru,0020,OC[C@@H](O)[C@H]1O[C@@H](O)[C@H](O)[C@@H]1O
+Fructofuranose b-D (southern conformation),Fru,0021,OC[C@H](O)[C@H]1O[C@@H](O)[C@H](O)[C@@H]1O
+Gal b1-4 Glc (Conformation 1),Gal b1-4 Glc,0022,OC[C@H]1O[C@@H](O)[C@H](O)[C@@H](O)[C@@H]1O[C@@H]1O[C@H](CO)[C@H](O)[C@H](O)[C@H]1O
+Gal b1-4 Glc (Conformation 2),Gal b1-4 Glc,0023,OC[C@H]1O[C@@H](O)[C@H](O)[C@@H](O)[C@@H]1O[C@@H]1O[C@H](CO)[C@H](O)[C@H](O)[C@H]1O
+Gal b1-4 Glc (Conformation 3),Gal b1-4 Glc,0024,OC[C@H]1O[C@@H](O)[C@H](O)[C@@H](O)[C@@H]1O[C@@H]1O[C@H](CO)[C@H](O)[C@H](O)[C@H]1O
+Gal b1-4 Glc (Conformation 4),Gal b1-4 Glc,0025,OC[C@H]1O[C@@H](O)[C@H](O)[C@@H](O)[C@@H]1O[C@@H]1O[C@H](CO)[C@H](O)[C@H](O)[C@H]1O
+Man a1-2 Man (Conformation 1),Man a1-2 Man,0026,OC[C@H]1O[C@@H](O)[C@@H](O[C@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]2O)[C@@H](O)[C@@H]1O
+Man a1-2 Man (Conformation 2),Man a1-2 Man,0027,OC[C@H]1O[C@@H](O)[C@@H](O[C@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]2O)[C@@H](O)[C@@H]1O
+Man a1-2 Man (Conformation 3),Man a1-2 Man,0028,OC[C@H]1O[C@@H](O)[C@@H](O[C@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]2O)[C@@H](O)[C@@H]1O
+Man a1-3 Man (Conformation 1),Man a1-3 Man,0029,OC[C@H]1O[C@H](O[C@@H]2[C@H](O)[C@H](O)O[C@H](CO)[C@H]2O)[C@@H](O)[C@@H](O)[C@@H]1O
+Man a1-3 Man (Conformation 2),Man a1-3 Man,0030,OC[C@H]1O[C@H](O[C@@H]2[C@H](O)[C@H](O)O[C@H](CO)[C@H]2O)[C@@H](O)[C@@H](O)[C@@H]1O
+Man a1-3 Man (Conformation 3),Man a1-3 Man,0031,OC[C@H]1O[C@H](O[C@@H]2[C@H](O)[C@H](O)O[C@H](CO)[C@H]2O)[C@@H](O)[C@@H](O)[C@@H]1O
+NeuAc a2-3 Gal,NeuAc a2-3 Gal,0032,CO[C@@H]1O[C@H](CO)[C@H](O)[C@H](O[C@]2(C(O)O)C[C@H](O)[C@@H](NC(C)O)[C@H]([C@H](O)[C@H](O)CO)O2)[C@H]1O
+Gal b1-3 GlcAc (Conformation 1),Gal b1-3 GlcAc,0033,CC(O)N[C@H]1[C@H](O)O[C@H](CO)[C@@H](O)[C@@H]1O[C@@H]1O[C@H](CO)[C@H](O)[C@H](O)[C@H]1O
+Gal b1-3 GlcAc (Conformation 2),Gal b1-3 GlcAc,0034,CC(O)N[C@H]1[C@H](O)O[C@H](CO)[C@@H](O)[C@@H]1O[C@@H]1O[C@H](CO)[C@H](O)[C@H](O)[C@H]1O
+Gal b1-3 GlcAc (Conformation 3),Gal b1-3 GlcAc,0035,CC1N[C@H]2[C@H](O)O[C@H](CO)[C@@H](O)[C@@H]2O[C@@H]2O[C@H](COO1)[C@H](O)[C@H](O)[C@H]2O
+Gal b1-3 GlcAc (Conformation 4),Gal b1-3 GlcAc,0036,CC(O)N[C@H]1[C@H](O)O[C@H](CO)[C@@H](O)[C@@H]1O[C@@H]1O[C@H](CO)[C@H](O)[C@H](O)[C@H]1O
+Gal b1-3 GalAc (Conformation 1),Gal b1-3 GalAc,0037,CC(O)N[C@H]1[C@H](O)O[C@H](CO)[C@H](O)[C@@H]1O[C@@H]1O[C@H](CO)[C@H](O)[C@H](O)[C@H]1O
+Gal b1-3 GalAc (Conformation 2),Gal b1-3 GalAc,0038,CC(O)N[C@H]1[C@H](O)O[C@H](CO)[C@H](O)[C@@H]1O[C@@H]1O[C@H](CO)[C@H](O)[C@H](O)[C@H]1O
+Gal b1-3 GalAc (Conformation 3),Gal b1-3 GalAc,0039,CC(O)N[C@H]1[C@H](O)O[C@H](CO)[C@H](O)[C@@H]1O[C@@H]1O[C@H](CO)[C@H](O)[C@H](O)[C@H]1O
+Gal b1-3 GalAc (Conformation 4),Gal b1-3 GalAc,0040,CC(O)N[C@H]1[C@H](O)O[C@H](CO)[C@H](O)[C@@H]1O[C@@H]1O[C@H](CO)[C@H](O)[C@H](O)[C@H]1O
+Gal b1-4 GlcAc (Conformation 1),Gal b1-4 GlcAc,0041,CC(O)N[C@H]1[C@H](O)O[C@H](CO)[C@@H](O[C@@H]2O[C@H](CO)[C@H](O)[C@H](O)[C@H]2O)[C@@H]1O
+Gal b1-4 GlcAc (Conformation 2),Gal b1-4 GlcAc,0042,CC(O)N[C@H]1[C@H](O)O[C@H](CO)[C@@H](O[C@@H]2O[C@H](CO)[C@H](O)[C@H](O)[C@H]2O)[C@@H]1O
+Gal b1-4 GlcAc (Conformation 3),Gal b1-4 GlcAc,0043,CC(O)N[C@H]1[C@H](O)O[C@H](CO)[C@@H](O[C@@H]2O[C@H](CO)[C@H](O)[C@H](O)[C@H]2O)[C@@H]1O
+Gal b1-4 GlcAc (Conformation 4),Gal b1-4 GlcAc,0044,CC(O)N[C@H]1[C@H](O)O[C@H](CO)[C@@H](O[C@@H]2O[C@H](CO)[C@H](O)[C@H](O)[C@H]2O)[C@@H]1O
+NeuAc a2-6 Gal,NeuAc a2-6 Gal,0045,CC(O)N[C@@H]1[C@@H](O)C[C@](OC[C@H]2O[C@@H](O)[C@H](O)[C@@H](O)[C@H]2O)(C(O)O)O[C@H]1[C@H](O)[C@H](O)CO
+GlcAc b1-2 Man (Conformation 1),GlcAc b1-2 Man,0046,CC(O)N[C@H]1[C@H](O[C@H]2[C@@H](O)[C@H](O)[C@@H](CO)O[C@H]2O)O[C@H](CO)[C@@H](O)[C@@H]1O
+GlcAc b1-2 Man (Conformation 2),GlcAc b1-2 Man,0047,CC(O)N[C@H]1[C@H](O[C@H]2[C@@H](O)[C@H](O)[C@@H](CO)O[C@H]2O)O[C@H](CO)[C@@H](O)[C@@H]1O
+GlcAc b1-2 Man (Conformation 3),GlcAc b1-2 Man,0048,CC(O)N[C@H]1[C@H](O[C@H]2[C@@H](O)[C@H](O)[C@@H](CO)O[C@H]2O)O[C@H](CO)[C@@H](O)[C@@H]1O
+GlcAc b1-2 Man (Conformation 4),GlcAc b1-2 Man,0049,CC1N[C@H]2[C@H](O[C@H]3[C@@H](OO1)[C@H](O)[C@@H](CO)O[C@H]3O)O[C@H](CO)[C@@H](O)[C@@H]2O
+Glc a1-4 Glc,Glc a1-4 Glc,0050,
+Gal a1-4 Gal (Conformation 1),Gal a1-4 Gal,0051,OC[C@H]1O[C@H](O[C@H]2[C@@H](CO)O[C@H](O)[C@H](O)[C@H]2O)[C@H](O)[C@@H](O)[C@H]1O
+Gal a1-4 Gal (Conformation 2),Gal a1-4 Gal,0052,OC[C@H]1O[C@H](O[C@H]2[C@@H](CO)O[C@H](O)[C@H](O)[C@H]2O)[C@H](O)[C@@H](O)[C@H]1O
+Gal a1-4 Gal (Conformation 3),Gal a1-4 Gal,0053,OC[C@H]1O[C@H](O[C@H]2[C@@H](CO)O[C@H](O)[C@H](O)[C@H]2O)[C@H](O)[C@@H](O)[C@H]1O
+Man a1-4 Man (Conformation 1),Man a1-4 Man,0054,OC[C@H]1O[C@H](O[C@@H]2[C@@H](CO)O[C@@H](O)[C@@H](O)[C@H]2O)[C@@H](O)[C@@H](O)[C@@H]1O
+Man a1-4 Man (Conformation 2),Man a1-4 Man,0055,OC[C@H]1O[C@H](O[C@@H]2[C@@H](CO)O[C@@H](O)[C@@H](O)[C@H]2O)[C@@H](O)[C@@H](O)[C@@H]1O
+Man a1-4 Man (Conformation 3),Man a1-4 Man,0056,OC[C@H]1O[C@H](O[C@@H]2[C@@H](CO)O[C@@H](O)[C@@H](O)[C@H]2O)[C@@H](O)[C@@H](O)[C@@H]1O
+Gal a1-3 Gal (Conformation 1),Gal a1-3 Gal,0057,OC[C@H]1O[C@H](O)[C@H](O)[C@@H](O[C@H]2O[C@H](CO)[C@H](O)[C@H](O)[C@H]2O)[C@H]1O
+Gal a1-3 Gal (Conformation 2),Gal a1-3 Gal,0058,OC[C@H]1O[C@H](O)[C@H](O)[C@@H](O[C@H]2O[C@H](CO)[C@H](O)[C@H](O)[C@H]2O)[C@H]1O
+Gal a1-3 Gal (Conformation 3),Gal a1-3 Gal,0059,OC[C@H]1O[C@H](O)[C@H](O)[C@@H](O[C@H]2O[C@H](CO)[C@H](O)[C@H](O)[C@H]2O)[C@H]1O
+Glc b1-3 Glc (Conformation 1),Glc b1-3 Glc,0060,OC[C@H]1O[C@@H](O[C@@H]2[C@@H](O)[C@H](O)O[C@H](CO)[C@H]2O)[C@H](O)[C@@H](O)[C@@H]1O
+Glc b1-3 Glc (Conformation 2),Glc b1-3 Glc,0061,OC[C@H]1O[C@@H](O[C@@H]2[C@@H](O)[C@H](O)O[C@H](CO)[C@H]2O)[C@H](O)[C@@H](O)[C@@H]1O
+Glc b1-3 Glc (Conformation 3),Glc b1-3 Glc,0062,OC[C@H]1O[C@@H](O[C@@H]2[C@@H](O)[C@H](O)O[C@H](CO)[C@H]2O)[C@H](O)[C@@H](O)[C@@H]1O
+Glc b1-3 Glc (Conformation 4),Glc b1-3 Glc,0063,OC[C@H]1O[C@@H](O[C@@H]2[C@@H](O)[C@H](O)O[C@H](CO)[C@H]2O)[C@H](O)[C@@H](O)[C@@H]1O
+GlcAc b1-3 Gal (Conformation 1),GlcAc b1-3 Gal,0064,CC(O)N[C@H]1[C@H](O[C@H]2[C@@H](O)[C@@H](CO)O[C@@H](O)[C@@H]2O)O[C@H](CO)[C@@H](O)[C@@H]1O
+GlcAc b1-3 Gal (Conformation 2),GlcAc b1-3 Gal,0065,CC(O)N[C@H]1[C@H](O[C@H]2[C@@H](O)[C@@H](CO)O[C@@H](O)[C@@H]2O)O[C@H](CO)[C@@H](O)[C@@H]1O
+GlcAc b1-3 Gal (Conformation 3),GlcAc b1-3 Gal,0066,CC(O)N[C@H]1[C@H](O[C@H]2[C@@H](O)[C@@H](CO)O[C@@H](O)[C@@H]2O)O[C@H](CO)[C@@H](O)[C@@H]1O
+GlcAc b1-3 Gal (Conformation 4),GlcAc b1-3 Gal,0067,CC(O)N[C@H]1[C@H](O[C@H]2[C@@H](O)[C@@H](CO)O[C@@H](O)[C@@H]2O)O[C@H](CO)[C@@H](O)[C@@H]1O
+GalAc a1-3 GalAc (Conformation 1),GalAc a1-3 GalAc,0068,CC(O)N[C@H]1[C@@H](O[C@@H]2[C@@H](NC(C)O)[C@@H](O)O[C@H](CO)[C@@H]2O)O[C@H](CO)[C@H](O)[C@@H]1O
+GalAc a1-3 GalAc (Conformation 2),GalAc a1-3 GalAc,0069,CC(O)N[C@H]1[C@@H](O[C@@H]2[C@@H](NC(C)O)[C@@H](O)O[C@H](CO)[C@@H]2O)O[C@H](CO)[C@H](O)[C@@H]1O
+GalAc a1-3 GalAc (Conformation 3),GalAc a1-3 GalAc,0070,CC(O)N[C@H]1[C@@H](O[C@@H]2[C@@H](NC(C)O)[C@@H](O)O[C@H](CO)[C@@H]2O)O[C@H](CO)[C@H](O)[C@@H]1O
+Gal b1-3 Gal (Conformation 1),Gal b1-3 Gal,0071,OC[C@H]1O[C@@H](O)[C@H](O)[C@@H](O[C@@H]2O[C@H](CO)[C@H](O)[C@H](O)[C@H]2O)[C@H]1O
+Gal b1-3 Gal (Conformation 2),Gal b1-3 Gal,0072,OC[C@H]1O[C@@H](O)[C@H](O)[C@@H](O[C@@H]2O[C@H](CO)[C@H](O)[C@H](O)[C@H]2O)[C@H]1O
+Gal b1-3 Gal (Conformation 3),Gal b1-3 Gal,0073,OC[C@H]1O[C@@H](O)[C@H](O)[C@@H](O[C@@H]2O[C@H](CO)[C@H](O)[C@H](O)[C@H]2O)[C@H]1O
+Gal b1-3 Gal (Conformation 4),Gal b1-3 Gal,0074,OC[C@H]1O[C@@H](O)[C@H](O)[C@@H](O[C@@H]2O[C@H](CO)[C@H](O)[C@H](O)[C@H]2O)[C@H]1O
+GalAc b1-3 Gal (Conformation 1),GalAc b1-3 Gal,0075,CC(O)N[C@H]1[C@H](O[C@H]2[C@@H](O)[C@@H](CO)O[C@@H](O)[C@@H]2O)O[C@H](CO)[C@H](O)[C@@H]1O
+GalAc b1-3 Gal (Conformation 2),GalAc b1-3 Gal,0076,CC(O)N[C@H]1[C@H](O[C@H]2[C@@H](O)[C@@H](CO)O[C@@H](O)[C@@H]2O)O[C@H](CO)[C@H](O)[C@@H]1O
+GalAc b1-3 Gal (Conformation 3),GalAc b1-3 Gal,0077,CC(O)N[C@H]1[C@H](O[C@H]2[C@@H](O)[C@@H](CO)O[C@@H](O)[C@@H]2O)O[C@H](CO)[C@H](O)[C@@H]1O
+GalAc b1-3 Gal (Conformation 4),GalAc b1-3 Gal,0078,CC(O)N[C@H]1[C@H](O[C@H]2[C@@H](O)[C@@H](CO)O[C@@H](O)[C@@H]2O)O[C@H](CO)[C@H](O)[C@@H]1O
+Fuc a1-4 GlcAc (Conformation 1),Fuc a1-4 GlcAc,0079,CC(=O)N[C@H]1[C@H](O)O[C@H](CO)[C@@H](O[C@@H]2O[C@@H](C)[C@@H](O)[C@@H](O)[C@@H]2O)[C@@H]1O
+Fuc a1-4 GlcAc (Conformation 2),Fuc a1-4 GlcAc,0080,CC(=O)N[C@H]1[C@H](O)O[C@H](CO)[C@@H](O[C@@H]2O[C@@H](C)[C@@H](O)[C@@H](O)[C@@H]2O)[C@@H]1O
+Fuc a1-4 GlcAc (Conformation 3),Fuc a1-4 GlcAc,0081,CC(O)N[C@H]1[C@H](O)O[C@H](CO)[C@@H](O[C@@H]2O[C@@H](C)[C@@H](O)[C@@H](O)[C@@H]2O)[C@@H]1O
+Fuc a1-2 Gal (Conformation 1),Fuc a1-2 Gal,0082,C[C@@H]1O[C@@H](O[C@H]2CO[C@H](CO)[C@H](O)[C@@H]2O)[C@@H](O)C[C@@H]1O
+Fuc a1-2 Gal (Conformation 2),Fuc a1-2 Gal,0083,C[C@@H]1O[C@@H](O[C@H]2CO[C@H](CO)[C@H](O)[C@@H]2O)[C@@H](O)C[C@@H]1O
+Fuc a1-2 Gal (Conformation 3),Fuc a1-2 Gal,0084,C[C@@H]1O[C@@H](O[C@H]2CO[C@H](CO)[C@H](O)[C@@H]2O)[C@@H](O)C[C@@H]1O
+Gal b1-4 Gal (Conformation 1),Gal b1-4 Gal,0085,OC[C@H]1O[C@@H](O[C@H]2[C@@H](CO)O[C@@H](O)[C@H](O)[C@H]2O)[C@H](O)[C@@H](O)[C@H]1O
+Gal b1-4 Gal (Conformation 2),Gal b1-4 Gal,0086,OC[C@H]1O[C@@H](O)[C@@H]2OOC[C@H]3O[C@@H](O[C@@H]1[C@@H]2O)[C@H](O)[C@@H](O)[C@H]3O
+Gal b1-4 Gal (Conformation 3),Gal b1-4 Gal,0087,OC[C@H]1O[C@@H](O[C@H]2[C@@H](CO)O[C@@H](O)[C@H](O)[C@H]2O)[C@H](O)[C@@H](O)[C@H]1O
+NeuAc a2-6 GlcAc (Conformation 1),NeuAc a2-6 GlcAc,0088,CC(O)N[C@@H]1[C@@H](O)C[C@](OC[C@H]2O[C@@H](O)[C@H](NC(C)O)[C@@H](O)[C@@H]2O)(C(O)O)O[C@H]1[C@H](O)[C@H](O)CO
+NeuAc a2-8 NeuAc,NeuAc a2-8 NeuAc,0091,CC(O)N[C@@H]1[C@@H](O)C[C@](O)(C(O)O)O[C@H]1[C@H](O)[C@@H](CO)O[C@]1(C(O)O)C[C@H](O)[C@@H](NC(C)O)[C@H]([C@H](O)[C@H](O)CO)O1
+GalAc a1-3 Gal (Conformation 1),GalAc a1-3 Gal,0092,CC(O)N[C@H]1[C@@H](O[C@H]2[C@@H](O)[C@@H](CO)O[C@@H](O)[C@@H]2O)O[C@H](CO)[C@H](O)[C@@H]1O
+GalAc a1-3 Gal (Conformation 2),GalAc a1-3 Gal,0093,CC(O)N[C@H]1[C@@H](O[C@H]2[C@@H](O)[C@@H](CO)O[C@@H](O)[C@@H]2O)O[C@H](CO)[C@H](O)[C@@H]1O
+GalAc a1-3 Gal (Conformation 3),GalAc a1-3 Gal,0094,CC(O)N[C@H]1[C@@H](O[C@H]2[C@@H](O)[C@@H](CO)O[C@@H](O)[C@@H]2O)O[C@H](CO)[C@H](O)[C@@H]1O
+NeuAc a2-6 GalAc,NeuAc a2-6 GalAc,0095,CC(O)N[C@@H]1[C@@H](O)C[C@](OC[C@H]2O[C@@H](O)[C@H](NC(C)O)[C@@H](O)[C@H]2O)(C(O)O)O[C@H]1[C@H](O)[C@H](O)CO
+Gal a1-2 Gal (Conformation 1),Gal a1-2 Gal,0099,CO[C@H]1O[C@H](CO)[C@H](O)[C@H](O)[C@H]1O[C@H]1O[C@H](CO)[C@H](O)[C@H](O)[C@H]1O
+Gal a1-2 Gal (Conformation 2),Gal a1-2 Gal,0100,CO[C@H]1O[C@H](CO)[C@H](O)[C@H](O)[C@H]1O[C@H]1O[C@H](CO)[C@H](O)[C@H](O)[C@H]1O
+Gal a1-2 Gal (Conformation 3),Gal a1-2 Gal,0101,CO[C@H]1O[C@H](CO)[C@H](O)[C@H](O)[C@H]1O[C@H]1O[C@H](CO)[C@H](O)[C@H](O)[C@H]1O
+Xyl b1-3 Man (Conformation 1),Xyl b1-3 Man,0102,OC[C@H]1O[C@@H](O)[C@@H](O)[C@@H](O[C@@H]2OC[C@@H](O)[C@H](O)[C@H]2O)[C@@H]1O
+Xyl b1-3 Man (Conformation 2),Xyl b1-3 Man,0103,OC[C@H]1O[C@@H](O)[C@@H](O)[C@@H](O[C@@H]2OC[C@@H](O)[C@H](O)[C@H]2O)[C@@H]1O
+Xyl b1-3 Man (Conformation 3),Xyl b1-3 Man,0104,OC[C@H]1O[C@@H](O)[C@@H](O)[C@@H](O[C@@H]2OC[C@@H](O)[C@H](O)[C@H]2O)[C@@H]1O
+Xyl b1-3 Man (Conformation 4),Xyl b1-3 Man,0105,OC[C@H]1O[C@@H](O)[C@@H](O)[C@@H](O[C@@H]2OC[C@@H](O)[C@H](O)[C@H]2O)[C@@H]1O
+Gal b1-4 Fruf,Gal b1-4 Fruf,0106,OC[C@H]1O[C@](O)(CO)[C@@H](O)[C@@H]1O[C@@H]1O[C@H](CO)[C@H](O)[C@H](O)[C@H]1O
+Fuc a1-6 GlcAc (Conformation 1),Fuc a1-6 GlcAc,0107,
+Fuc a1-6 GlcAc (Conformation 2),Fuc a1-6 GlcAc,0108,
+Glc a1-6 Glc,Glc a1-6 Glc,0109,
+Gal b1-3 Glc (Conformation 1),Gal b1-3 Glc,0110,OC[C@H]1O[C@@H](O[C@@H]2[C@@H](O)[C@H](O)O[C@H](CO)[C@H]2O)[C@H](O)[C@@H](O)[C@H]1O
+Gal b1-3 Glc (Conformation 2),Gal b1-3 Glc,0111,OC[C@H]1O[C@@H](O[C@@H]2[C@@H](O)[C@H](O)O[C@H](CO)[C@H]2O)[C@H](O)[C@@H](O)[C@H]1O
+Gal b1-3 Glc (Conformation 3),Gal b1-3 Glc,0112,OC[C@H]1O[C@@H](O[C@@H]2[C@@H](O)[C@H](O)O[C@H](CO)[C@H]2O)[C@H](O)[C@@H](O)[C@H]1O
+Gal b1-3 Glc (Conformation 4),Gal b1-3 Glc,0113,OC[C@H]1O[C@@H](O[C@@H]2[C@@H](O)[C@H](O)O[C@H](CO)[C@H]2O)[C@H](O)[C@@H](O)[C@H]1O
+Glc a1-3 Glc (Conformation 1),Glc a1-3 Glc,0114,OC[C@H]1O[C@H](O[C@@H]2[C@@H](O)[C@H](O)O[C@H](CO)[C@H]2O)[C@H](O)[C@@H](O)[C@@H]1O
+Glc a1-3 Glc (Conformation 2),Glc a1-3 Glc,0115,OC[C@H]1O[C@H](O[C@@H]2[C@@H](O)[C@H](O)O[C@H](CO)[C@H]2O)[C@H](O)[C@@H](O)[C@@H]1O
+Glc a1-3 Glc (Conformation 3),Glc a1-3 Glc,0116,OC[C@H]1O[C@H](O[C@@H]2[C@@H](O)[C@H](O)O[C@H](CO)[C@H]2O)[C@H](O)[C@@H](O)[C@@H]1O
